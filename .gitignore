@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Generated outputs
+data_out/
+
+# PyCharm / JetBrains
+.idea/
+out/
+
+# Packaging / env files
+*.egg-info/
+.env
